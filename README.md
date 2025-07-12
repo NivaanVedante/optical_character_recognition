@@ -55,7 +55,7 @@ To develop an OCR (Optical Character Recognition) system that can accurately cla
 ## 💾 Installation
 
 ```bash
-git clone https://github.com/yourusername/handwritten-digit-recognition
+git clone https://github.com/nivaanvedante/handwritten-digit-recognition
 cd handwritten-digit-recognition
 pip install -r requirements.txt
 python task3_handwritten_digit_recognition.py
